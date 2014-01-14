@@ -1,0 +1,11 @@
+.widget_email_collection dl.zend_form {
+	margin:0;
+}
+.widget_email_collection dl.zend_form dt {
+	display:none;
+}
+.widget_email_collection dl.zend_form dd button {
+	display:block;
+	margin:0 auto;
+	text-align:center;
+}
